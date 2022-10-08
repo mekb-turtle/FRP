@@ -1,14 +1,16 @@
-## FRP
-A simple extension forcing Reddit videos to be played by the fallback player.
+<div align="center">
+  <h2 align="center">⚡ FRP: The "Fuck Reddit Player" extension</h2>
+
+  <p align="center">
+    Simple extension to force Reddit videos to be played by the fallback player. 
+    <br>
+    <img src="https://img.shields.io/badge/Built with-JavaScript-green?logo=JavaScript&style=flat-square"/> 
+    <img src="https://img.shields.io/badge/Firefox-Compatible-green?logo=Firefox Browser&style=flat-square"/>
+  </p>
+</div>
 
 ### Installation:
-FRP is only available to Firefox at this moment. I will consider making a chrome version in the future, but not now yet.
-**Instruction:**
-1. Download the zip file in the "Releases" tab.
-2. Open up Firefox, navigate to `about:addons`, click on "Extensions", click on the cog icon and select "Install Add-on from file".
-3. Select the `.zip` file you just downloaded.
-4. It should work now. If it doesn't, please open an issue.
-*#NOTE: Sometimes Reddit's player will override the fallback player again, in that case refreshing should work.*
+FRP is only available to 🦊 Firefox at this moment. I will consider making a chrome version in the future, but not now yet.  
 
 ### FAQ:
 Q: What does "FRP" mean?  
