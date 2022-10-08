@@ -11,14 +11,14 @@ FRP is only available to Firefox at this moment. I will consider making a chrome
 *#NOTE: Sometimes Reddit's player will override the fallback player again, in that case refreshing should work.*
 
 ### FAQ:
-Q: What does "FRP" mean?
+Q: What does "FRP" mean?  
 A: "Fuck Reddit Player".
 
-Q: Why?
+Q: Why?  
 A: Reddit's video player are notorious for how bad it was made. To watch a simple video, at least for me, that player buffered for at least **4** times.
 
-Q: Do you accept contributions?
+Q: Do you accept contributions?  
 A: Of course yes! Contributions are very appreciated, as long as it is not malicious.
 
-Q: Why do you take so long to reply?
+Q: Why do you take so long to reply?  
 A: I rarely checks GitHub emails.
