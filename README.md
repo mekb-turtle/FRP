@@ -9,8 +9,9 @@
   </p>
 </div>
 
-### Installation:
-FRP is only available to 🦊 Firefox at this moment. I will consider making a chrome version in the future, but not now yet.  
+### Installation:    
+[🦊 addons.mozilla.org (Firefox)](https://addons.mozilla.org/en-US/firefox/addon/fredditplayer/)  
+I will consider making a Chrome version in the future, but not now yet.
 
 ### FAQ:
 Q: What does "FRP" mean?  
