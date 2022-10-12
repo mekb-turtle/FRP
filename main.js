@@ -1,10 +1,8 @@
 console.log('⚡ FuckRedditPlayer extension\nMade by /u/Akiyue\n')
 console.log('\nSearching for video elements')
+setInterval(function() {
 var video = document.getElementsByTagName('video')
-if(!video) {
-    console.log('No videos in current page...')
-}
-else {
+if(video) {
     console.log('Found a video object...')
     var target = video[0]
     console.log(target)
@@ -95,6 +93,6 @@ else {
         console.log(audioElement)
         console.log(videoElement)
         console.log('Successfully replaced with the fallback player, enjoy ☆⌒(ゝ。∂)')
-        alert('Successfully replaced with the fallback player, enjoy ☆⌒(ゝ。∂)')
     }
 }
+},1000);
