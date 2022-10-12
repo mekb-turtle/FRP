@@ -10,7 +10,7 @@
 
   "content_scripts": [
     {
-      "matches": ["*://*.reddit.com/r/*", "*://*.reddit.com/u/*"],
+      "matches": ["*://*.reddit.com/*"],
       "js": ["main.js"]
     }
   ]
